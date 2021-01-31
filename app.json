@@ -1,0 +1,12 @@
+{
+  "name": "movi2",
+  "displayName": "movi2",
+  "expo": {
+    "name": "movi2",
+    "slug": "movi2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
